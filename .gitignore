@@ -7,3 +7,5 @@
 *.pyc
 *.fcstd1
 *.FCStd1
+*.dxf
+*.DXF
